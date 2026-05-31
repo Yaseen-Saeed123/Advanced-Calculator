@@ -16,7 +16,7 @@ This is an apply for the math module. View the README file to know more
 12. ArcTrigonometric functions
 13. Some mathematical constants
 
-# Constarints
+# Constraints
 1. Answer should be between 10<sup>-99</sup> and 10<sup>99</sup>
 2. 0<sup>0</sup> causes a math error
 3. Domain errors in trig and arctrig functions are handled
